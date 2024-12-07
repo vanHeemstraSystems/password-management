@@ -1,30 +1,30 @@
-repository-name
+gestión de contraseñas
 
-# Repository Name
+# Gestión de contraseñas
 
-> línea de bala
+> Utilice Contraseñas de iCloud para proteger sus contraseñas y administrarlas fácilmente.
 
 -   [Documentación](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [Glosario](./GLOSSARY.md)
+-   [Imágenes](./IMAGES.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
-Text
+Compatible con macOS, iOS, Safari y Google Chrome (aunque un[extensión](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)). Sincronizado a través de iCloud.
 
 ## 100 - Introducción
 
-See [README.md](./100/README.md)
+Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
-See [README.md](./200/README.md)
+Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-See [README.md](./300/README.md)
+Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
