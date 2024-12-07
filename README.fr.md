@@ -1,8 +1,8 @@
-nom du référentiel
+gestion des mots de passe
 
-# Nom du référentiel
+# Gestion des mots de passe
 
-> Slugline
+> Utilisez les mots de passe iCloud pour sécuriser vos mots de passe et les gérer facilement.
 
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
@@ -12,7 +12,7 @@ nom du référentiel
 
 **Résumé exécutif**
 
-Texte
+Compatible avec macOS, iOS, Safari et Google Chrome (bien qu'un[extension](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)). Synchronisé via iCloud.
 
 ## 100 - Introduction
 
@@ -22,7 +22,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
