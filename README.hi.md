@@ -1,8 +1,8 @@
-भंडार-नाम
+पासवर्ड-प्रबंधन
 
-# भंडार का नाम
+# पासवर्ड प्रबंधन
 
-> स्लगलाइन
+> Use iCloud Passwords to secure your passwords and manage them easily.
 
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
@@ -10,9 +10,9 @@
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
-**कार्यकारी सारांश**
+**Executive Summary**
 
-मूलपाठ
+MacOS, iOS, Safari और Google Chrome के साथ संगत (हालाँकि a[विस्तार](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)). iCloud के माध्यम से सिंक्रनाइज़ किया गया।
 
 ## 100 - परिचय
 
