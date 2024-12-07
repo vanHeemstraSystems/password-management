@@ -2,7 +2,7 @@
 
 # 密码管理
 
-> 使用 iCloud 密码保护您的密码并轻松管理它们
+> 使用 iCloud 密码来保护您的密码并轻松管理它们。
 
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
