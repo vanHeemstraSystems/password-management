@@ -1,8 +1,8 @@
-repositorynaam
+wachtwoordbeheer
 
-# Naam van opslagplaats
+# Wachtwoordbeheer
 
-> Slaklijn
+> Gebruik iCloud-wachtwoorden om uw wachtwoorden te beveiligen en ze eenvoudig te beheren.
 
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
@@ -12,7 +12,7 @@ repositorynaam
 
 **Samenvatting**
 
-Tekst
+Compatibel met macOS, iOS, Safari en Google Chrome (hoewel een[verlenging](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)). Gesynchroniseerd via iCloud.
 
 ## 100 - Inleiding
 
