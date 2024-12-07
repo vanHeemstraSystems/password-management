@@ -1,8 +1,8 @@
-اسم المستودع
+إدارة كلمة المرور
 
-# اسم المستودع
+# إدارة كلمة المرور
 
-> سلوجلاين
+> استخدم كلمات مرور iCloud لتأمين كلمات المرور الخاصة بك وإدارتها بسهولة.
 
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
@@ -12,7 +12,7 @@
 
 **ملخص تنفيذي**
 
-نص
+متوافق مع أنظمة التشغيل macOS، وiOS، وSafari، وGoogle Chrome (على الرغم من وجود[امتداد](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)). متزامنة من خلال iCloud.
 
 ## 100- مقدمة
 
