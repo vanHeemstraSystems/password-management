@@ -1,8 +1,8 @@
-存储库名称
+密码管理
 
-# Repository Name
+# 密码管理
 
-> 斯拉格莱恩
+> 使用 iCloud 密码保护您的密码并轻松管理它们
 
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
@@ -12,13 +12,13 @@
 
 **执行摘要**
 
-文本
+与 macOS、iOS、Safari 和 Google Chrome 兼容（尽管[扩大](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)）。通过 iCloud 同步。
 
 ## 100 - 简介
 
 看[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - 要求
 
 看[README.md](./200/README.md)
 
