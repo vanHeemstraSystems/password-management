@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+password-management
+# Password Management
 
-> Slugline
+> Use iCloud Passwords to secure your passwords and manage them easily
 
 - [Documentation](./DOCUMENTATION.md)
 - [Glossary](./GLOSSARY.md)
@@ -11,7 +11,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+Compatible with macOS, iOS, Safari, and Google Chrome (though an [extension](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)). Synchronized through iCloud.
 
 ## 100 - Introduction
 
