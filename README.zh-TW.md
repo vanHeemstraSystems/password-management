@@ -2,7 +2,7 @@
 
 # 密碼管理
 
-> 使用 iCloud 密碼保護您的密碼並輕鬆管理它們
+> 使用 iCloud 密碼來保護您的密碼並輕鬆管理它們。
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
@@ -12,7 +12,7 @@
 
 **執行摘要**
 
-與 macOS、iOS、Safari 和 Google Chrome 相容（儘管[extension](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)）。透過 iCloud 同步。
+與 macOS、iOS、Safari 和 Google Chrome 相容（儘管[擴大](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)）。透過 iCloud 同步。
 
 ## 100 - 簡介
 
