@@ -10,7 +10,7 @@ Repository-Name
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Zusammenfassung**
+**Executive Summary**
 
 Text
 
@@ -28,4 +28,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
-Sehen[README.md](./400/README.md)
+See [README.md](./400/README.md)
