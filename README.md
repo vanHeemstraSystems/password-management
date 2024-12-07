@@ -1,7 +1,7 @@
 password-management
 # Password Management
 
-> Use iCloud Passwords to secure your passwords and manage them easily
+> Use iCloud Passwords to secure your passwords and manage them easily.
 
 - [Documentation](./DOCUMENTATION.md)
 - [Glossary](./GLOSSARY.md)
