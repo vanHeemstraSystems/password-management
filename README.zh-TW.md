@@ -1,18 +1,18 @@
-儲存庫名稱
+密碼管理
 
-# 儲存庫名稱
+# 密碼管理
 
-> 斯拉格萊恩
+> 使用 iCloud 密碼保護您的密碼並輕鬆管理它們
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [參考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
-文字
+與 macOS、iOS、Safari 和 Google Chrome 相容（儘管[extension](https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)）。透過 iCloud 同步。
 
 ## 100 - 簡介
 
@@ -22,7 +22,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 建立我們的應用程式
 
 看[README.md](./300/README.md)
 
